@@ -7,6 +7,9 @@
 [submodule "lib/P0-C00203756"]
 	path = lib/P0-C00203756
 	url = https://github.com/EricOT98/P0-C00203756.git
-[submodule "lib/RealworldModelling"]
-	path = lib/RealworldModelling
+[submodule "lib/RealWorldModelling"]
+	path = lib/RealWorldModelling
 	url = https://github.com/C00206286/RealWorldModelling.git
+[submodule "lib/RealWorldSimY4"]
+	path = lib/RealWorldSimY4
+	url = https://github.com/AaronCur/RealWorldSimY4

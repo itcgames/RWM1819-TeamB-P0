@@ -31,4 +31,12 @@ describe('p0TeamB()', function () {
   it("running_total of -2, 3, -7", function () {
     expect(running_total([-2, 3, -7])).to.equal(-6);
   });
+
+  it("decrement < first: 4, 3, 5", function(){
+    expect(decrement_if_less_than_first([4,3,5])).to.deep.equal([4,2,5]);
+  });
+
+  it("decrement < first: 10, -1, null", function(){
+    expect(decrement_if_less_than_first([10,-1,null])).to.deep.equal([10,-2,-1]);
+  });
 });
