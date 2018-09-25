@@ -23,4 +23,12 @@ describe('p0TeamB()', function () {
   it("Modulo_3 of 7", function () {
     expect(Modulo_3(7)).to.equal(1);
   });
+
+  it("running_total of 2, 3, 7", function () {
+    expect(running_total([2, 3, 7])).to.equal(12);
+  });
+
+  it("running_total of -2, 3, -7", function () {
+    expect(running_total([-2, 3, -7])).to.equal(-6);
+  });
 });
