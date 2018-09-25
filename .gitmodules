@@ -1,9 +1,12 @@
 [submodule "lib/p0-C00203711"]
 	path = lib/p0-C00203711
-	url = https://github.com/Pierce-James/p0-C00203711
-[submodule "lib/p0-team-B"]
-	path = lib/p0-team-B
-	url = https://github.com/peterdaly97/p0-team-B.git
+	url = https://github.com/Pierce-James/p0-C00203711.git
 [submodule "lib/p0-C00206417"]
 	path = lib/p0-C00206417
 	url = https://github.com/John-OMeara/p0-C00206417.git
+[submodule "lib/P0-C00203756"]
+	path = lib/P0-C00203756
+	url = https://github.com/EricOT98/P0-C00203756.git
+[submodule "lib/RealworldModelling"]
+	path = lib/RealworldModelling
+	url = https://github.com/C00206286/RealWorldModelling.git
