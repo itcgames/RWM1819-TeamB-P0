@@ -9,7 +9,7 @@
 	url = https://github.com/EricOT98/P0-C00203756.git
 [submodule "lib/RealWorldModelling"]
 	path = lib/RealWorldModelling
-	url = https://github.com/C00206286/RealWorldModelling.git
+	url = https://github.com/DJOLEARY/Running_Total.git
 [submodule "lib/RealWorldSimY4"]
 	path = lib/RealWorldSimY4
 	url = https://github.com/AaronCur/RealWorldSimY4
